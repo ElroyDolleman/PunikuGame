@@ -1,0 +1,8 @@
+﻿  Spoon.cpp
+c:\users\elroy\documents\school\jelly project\punikugame\punikugame\spoon.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\elroy\documents\school\jelly project\punikugame\punikugame\spoon.cpp(12): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\elroy\documents\school\jelly project\punikugame\punikugame\spoon.cpp(14): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+c:\users\elroy\documents\school\jelly project\punikugame\punikugame\spoon.cpp(27): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+c:\users\elroy\documents\school\jelly project\punikugame\punikugame\spoon.cpp(31): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+c:\users\elroy\documents\school\jelly project\punikugame\punikugame\spoon.cpp(32): warning C4244: '=' : conversion from 'const float' to 'int', possible loss of data
+  PunikuGame.vcxproj -> C:\Users\Elroy\Documents\School\Jelly Project\PunikuGame\Debug\PunikuGame.exe
